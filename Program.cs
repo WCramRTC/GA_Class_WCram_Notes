@@ -9,8 +9,13 @@
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
+            Student desmond = new Student();
+            Student steph = new Student();
+
+            Professor will = new Professor();
         } // end of main
+
     } // class
 
 } // namespae
